@@ -30,3 +30,8 @@ A list of backendless services to Atlassian Forge
 
 1. [Auth0](https://auth0.com/)
 2. [Amazon Cognito](https://www.typeform.com/)
+
+## Email
+
+1. [Mailjet](https://www.mailjet.com/email-api/)
+2. [restdb.io](https://restdb.io/)
