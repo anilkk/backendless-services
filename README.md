@@ -25,3 +25,8 @@ A list of backendless services to Atlassian Forge
 1. [Google form](https://www.google.com/forms/about/)
 2. [Typeform](https://www.typeform.com/)
 3. [Airtable form](https://try.airtable.com/forms)
+
+## Auth services
+
+1. [Auth0](https://auth0.com/)
+2. [Amazon Cognito](https://www.typeform.com/)
